@@ -1,0 +1,7 @@
+[RESOURCES]
+Cashier
+[VARIABLES]
+Check Out Process.NumberOut
+Check Out Process.NumberIn
+Departure.NumberOut
+Customer Arrival.NumberOut
